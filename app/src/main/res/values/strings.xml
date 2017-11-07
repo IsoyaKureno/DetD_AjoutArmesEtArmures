@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AjoutArmesEtArmures</string>
+    <string name="ajouter_armure">Ajouter Armure</string>
+    <string name="ajouter_arme">Ajouter Arme</string>
+    <string name="title_activity_ajout_arme">AjoutArme</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="nom">Nom</string>
+    <string name="d">… d …</string>
+    <string name="_20">… - 20</string>
+    <string name="x">X …</string>
+    <string name="bonusArmor">+...</string>
+    <string name="bonus_armure">Bonus Armure (+...)</string>
+    <string name="max_dex">Max Dex (+...)</string>
+    <string-array name="spinnerTypeDommage">
+        <item>Type de Dégats</item>
+        <item>Tranchant</item>
+        <item>Perforant</item>
+        <item>Contondant</item>
+    </string-array>
+</resources>
